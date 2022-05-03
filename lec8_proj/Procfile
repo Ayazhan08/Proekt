@@ -1,0 +1,1 @@
+web: gunicorn lec8_proj.wsgi --log-file -
